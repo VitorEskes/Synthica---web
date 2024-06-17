@@ -71,7 +71,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
   if (username === 'admin@email.com' && password === '1234') {
       // Redirect to another page
       window.location.href = '../index.html';
-      alert("Suceso no Logon")
+      alert("Sucesso no Logon")
   } else {
       alert('Invalid username or password.');
   }
