@@ -3,6 +3,11 @@
 Fórmula-E Synthica
 Bem-vindo ao repositório do site da Fórmula-E Synthica, desenvolvido pela nossa equipe com o objetivo de promover a Fórmula-E, um esporte sustentável e inovador. Este documento fornece uma visão geral do projeto, instruções para configuração e uso, bem como detalhes sobre a estrutura do código.
 
+Equipe
+Vitor Alves Titus Eskes / RM555137
+Nathan Craveiro Gonçalves Amin / RM555508
+Gabriel Matias Simões / RM556171
+
 Proposta
 A proposta do nosso site é aumentar a visibilidade da Fórmula-E e engajar os fãs através de recompensas interativas. Os usuários podem ganhar Moedas Amarelas gratuitamente ao se cadastrar, assistir às lives e convidar amigos. As Moedas Azuis estão disponíveis para compra e podem ser usadas para adquirir ingressos, roupas e participar de sorteios exclusivos.
 
