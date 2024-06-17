@@ -63,4 +63,3 @@ Estrutura do Repositório
 index.html: Página inicial do site.
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
->>>>>>> 61624ed3ac808e57c82da5fe063765c3a8df30bc
