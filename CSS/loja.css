@@ -87,7 +87,12 @@
   width: 24px;
   height: 24px;
   overflow: hidden;
+  transition: all 0.2s ease;
 }
+.fi-sr-shopping-cart-icon:hover{
+  transform: scale(1.1);
+}
+
 .group-div {
   position: absolute;
   top: 143px;
