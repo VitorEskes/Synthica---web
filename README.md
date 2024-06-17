@@ -49,7 +49,7 @@ Para configurar o projeto localmente, siga os passos abaixo:
 Clone o repositório:
 bash
 Copy code
-git clone https://github.com/sua-conta/synthica-formula-e.git
+git clone (https://github.com/VitorEskes/Synthica---web)
 Navegue até o diretório do projeto:
 bash
 Copy code
