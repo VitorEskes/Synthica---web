@@ -175,6 +175,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  transition: all 0.2s ease;
+}
+.group-parent:hover{
+  transform: scale(1.02);
 }
 .rectangle-parent2 {
   position: absolute;
@@ -203,6 +207,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  transition: all 0.2s ease;
+}
+.group-container:hover{
+  transform: scale(1.02);
 }
 .preco2 {
   position: absolute;
@@ -224,7 +232,13 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  transition: all 0.2s ease;
 }
+.frame-div:hover{
+  transform: scale(1.02);
+}
+
+
 .rectangle-parent4 {
   position: absolute;
   top: 219px;
@@ -252,6 +266,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+  transition: all 0.2s ease;
+}
+.group-parent1:hover{
+  transform: scale(1.02);
 }
 .pp-01-formulanewera-icon {
   position: absolute;
