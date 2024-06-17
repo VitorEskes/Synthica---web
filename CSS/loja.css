@@ -279,6 +279,10 @@
   width: 250px;
   height: 250px;
   object-fit: cover;
+  transition: all 0.2s ease;
+}
+.pp-01-formulanewera-icon:hover{
+  transform: scale(1.02);
 }
 .pp-01-formula-e-icon {
   position: absolute;
@@ -288,6 +292,10 @@
   width: 250px;
   height: 250px;
   object-fit: cover;
+  transition: all 0.2s ease;
+}
+.pp-01-formula-e-icon:hover{
+  transform: scale(1.02);
 }
 .pp-01-formula-e-icon1 {
   position: absolute;
@@ -297,6 +305,10 @@
   width: 250px;
   height: 250px;
   object-fit: cover;
+  transition: all 0.2s ease;
+}
+.pp-01-formula-e-icon1:hover{
+  transform: scale(1.02);
 }
 .pp-01-formula-e-icon2 {
   position: absolute;
@@ -306,6 +318,10 @@
   width: 250px;
   height: 250px;
   object-fit: cover;
+  transition: all 0.2s ease;
+}
+.pp-01-formula-e-icon2:hover{
+  transform: scale(1.02);
 }
 .rectangle-parent5 {
   position: absolute;
