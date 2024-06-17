@@ -45,10 +45,9 @@
   object-fit: cover;
 }
 .sobre-a-synthica-parent {
-  right: 100px;
   position: absolute;
   top: 838px;
-  left: 107px;
+  left: 357px;
   width: 1023px;
   height: 155px;
   font-size: var(--font-size-9xl);
@@ -156,7 +155,7 @@
 .image-4-icon {
   position: absolute;
   top: 0px;
-  left: 4px;
+  left: 400px;
   border-radius: var(--br-mid);
   width: 601px;
   height: 319px;
@@ -165,7 +164,7 @@
 .na-frmula-e1 {
   position: absolute;
   top: 55px;
-  left: 3px;
+  left: 353px;
   font-weight: 300;
   display: inline-block;
   width: 667px;
@@ -174,7 +173,7 @@
 .sustentabilidade2 {
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: 350px;
   font-size: 36px;
   letter-spacing: -0.09px;
   line-height: 24px;
